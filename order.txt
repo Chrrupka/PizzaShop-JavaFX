@@ -1,0 +1,8 @@
+Rodzaj, Rozmiar, Cena, Ilość, Cena łącznie 
+Hawajska, Duza,  35,   1,    35
+Hawajska, Duza,  35,   1,    35
+Hawajska, Duza,  35,   1,    35
+
+Razem do zaplaty: 105
+Twoja gotowka to: 143
+Twoja reszta to: 38

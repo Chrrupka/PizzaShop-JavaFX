@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.example","l":"JavaPostgreSql"},{"p":"org.example","l":"Login"},{"p":"org.example","l":"Main"},{"p":"org.example","l":"Menu"},{"p":"org.example","l":"Products"}];updateSearchResults();
